@@ -29,4 +29,21 @@ Welcome to our E-Commerce Shopping Web App! This project is built using React + 
 - **🌐 Context API for global state management**
 
 
+## 🌟 Preview  
+
+
+### 🏠 Landing Page  
+![Landing Page](https://your-image-url.com/landing-page.png)  
+
+### 🛍️ Product Page  
+![Product Page](https://your-image-url.com/product-page.png)  
+
+### 🛒 Category Page  
+![Category Page](https://your-image-url.com/cart-page.png)  
+
+### 🛒 Cart Page  
+![Cart Page](https://your-image-url.com/cart-page.png)  
+
+
+
 Enjoy a seamless shopping experience! 🎉
